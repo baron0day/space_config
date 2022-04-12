@@ -1,6 +1,19 @@
 {
-	"spaces_list": [
-		{"spaces_name": "Galaxy Space01", "spaces_address": "0x", "spaces_logo": "", "pool_list": ["0x","0x"]},
-		{"spaces_name": "Galaxy Space02", "spaces_address": "0x", "spaces_logo": "", "pool_list": ["0x","0x"]}
-	]
+	"spaces_list": {
+		"BSC": [
+			{
+				"spaces_name": "Galaxy Space01",
+				"spaces_address": "0x",
+				"spaces_logo": "",
+				"pool_list": ["0x","0x"]
+			},
+			{
+				"spaces_name": "Galaxy Space02",
+			        "spaces_address": "0x",
+				"spaces_logo": "",
+				"pool_list": ["0x","0x"]
+			}
+	         ],
+		"ETH": []
+         }
 }
