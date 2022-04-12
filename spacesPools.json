@@ -4,13 +4,13 @@
 			{
 				"spaces_name": "Galaxy Space01",
 				"spaces_address": "0x",
-				"spaces_logo": "",
+				"spaces_logo": "require('@/assets/images/bsc-icon-logo.png')",
 				"pool_list": ["0x","0x"]
 			},
 			{
 				"spaces_name": "Galaxy Space02",
 			        "spaces_address": "0x",
-				"spaces_logo": "",
+				"spaces_logo": "require('@/assets/images/bsc-icon-logo.png')",
 				"pool_list": ["0x","0x"]
 			}
 	         ],
