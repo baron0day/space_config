@@ -1,4 +1,8 @@
 {
+	"all_pool": {
+		"BSC": [],
+		"ETH": []
+	},
 	"spaces_list": {
 		"BSC": [
 			{
