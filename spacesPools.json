@@ -9,13 +9,13 @@
 	"spaces_list": {
 		"BSC": [
 			{
-				"spaces_name": "GalaxySpace01",
-				"spaces_address": "0xA3F7C8D185785516e2a2Fb929C2675E70Da827eB",
-				"spaces_logo": "require('@/assets/images/bsc-icon-logo.png')",
-				"pool_list": [
-					"0x1e2280839e756344d60d5167856cad4d6bE96bF5",
-					"0x5D451AEa7146331312240602813c7c1bd6fE907F"
-				]
+			"spaces_name": "GalaxySpace01",
+			"spaces_address": "0xA3F7C8D185785516e2a2Fb929C2675E70Da827eB",
+			"spaces_logo": "require('@/assets/images/bsc-icon-logo.png')",
+			"pool_list": [
+				"0x1e2280839e756344d60d5167856cad4d6bE96bF5",
+				"0x5D451AEa7146331312240602813c7c1bd6fE907F"
+			]
 			}
 	         ],
 		"ETH": []
