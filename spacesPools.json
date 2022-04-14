@@ -1,11 +1,4 @@
 {
-	"all_pool": {
-		"BSC": [
-			"0x1e2280839e756344d60d5167856cad4d6bE96bF5",
-			"0x5D451AEa7146331312240602813c7c1bd6fE907F"
-		],
-		"ETH": []
-	},
 	"spaces_list": {
 		"BSC": [
 			{
