@@ -5,6 +5,10 @@
 			"spaces_name": "GalaxySpace01",
 			"spaces_address": "0xA3F7C8D185785516e2a2Fb929C2675E70Da827eB",
 			"spaces_logo": "https://nftsquared.s3.ap-southeast-1.amazonaws.com/bsc-icon-logo.png",
+		        "website": "website",
+		        "twitter": "twitter",
+			"telegram": "telegram",
+			"introduce": "The space is created by Project Galaxy, for all NFT campaigns initiated by the Project Galaxy team.",
 			"pool_list": [
 			        "0x05BF2C2c88030224C998EBa9f1BBFD1ffd396E8D"
 			]
