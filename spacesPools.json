@@ -12,8 +12,7 @@
 			"pool_list": [
 			        "0xe7234345c4a7B3B379257dBC369e200868Df3De9",
 				"0x2aC8BB662C702EAF5a4565f6eB2D8F2d8D4C3Eb1",
-				"0x4e1576fA0F3aA0201D56c73dD87d81BFAa39fae7",
-				"0x5C5E7E08269aA6464B86dEa8b2De65c043b17290"
+				"0x4e1576fA0F3aA0201D56c73dD87d81BFAa39fae7"
 			]
 			},
 			{
@@ -26,6 +25,18 @@
 			"introduce": "The space is created by Project Galaxy, for all NFT campaigns initiated by the Project Galaxy team.The space is created by Project Galaxy, for all NFT campaigns initiated by the Project Galaxy team.The space is created by Project Galaxy, for all NFT campaigns initiated by the Project Galaxy team.",
 			"pool_list": [
 			        "0x6e80C66989abEbda37fbfe6c3509CE29D94E6Eb7"
+			]
+			},
+			{
+			"spaces_name": "GalaxySpace03",
+			"spaces_address": "0xe7234345c4a7B3B379257dBC369e200868Df3De9",
+			"spaces_logo": "https://nftsquared.s3.ap-southeast-1.amazonaws.com/bsc-icon-logo.png",
+		        "website": "website",
+		        "twitter": "twitter",
+			"telegram": "telegram",
+			"introduce": "The space is created by Project Galaxy, for all NFT campaigns initiated by the Project Galaxy team.The space is created by Project Galaxy, for all NFT campaigns initiated by the Project Galaxy team.The space is created by Project Galaxy, for all NFT campaigns initiated by the Project Galaxy team.",
+			"pool_list": [
+				"0x5C5E7E08269aA6464B86dEa8b2De65c043b17290"
 			]
 			}
 	         ],
