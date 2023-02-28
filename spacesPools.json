@@ -10,9 +10,7 @@
 			"telegram": "",
 			"discord": "https://discord.com/invite/polychainmonsters",
 			"introduce": "Polychain Monsters are beautifully animated digital collectibles with varying scarcities. Each Polychain Monster is backed by a truly unique NFT and can be unpacked with $PMON tokens.",
-			"pool_list": [
-			        "",
-			]
+			"pool_list": []
 			},
 			{
 			"spaces_name": "WonderfulDay Tiger",
@@ -24,7 +22,7 @@
 			"discord": "https://discord.com/invite/YCDtCBwshM",
 			"introduce": "WonderfulDay is a decentralized NFT mint, trading and data display platform. Wonderful Tiger is the symbol of the WonderfulDay brand. Collect five different tigers to share 20M WON reward. Stake or trade any tiger NFT to get WON rewards.",
 			"pool_list": [
-			        "0x02720e058bEbB918AEf5227A304e017d91e975fC",
+			        "0x02720e058bEbB918AEf5227A304e017d91e975fC"
 			]
 			},
 			{
@@ -37,7 +35,7 @@
 			"discord": "",
 			"introduce": "#DeFi Market BaaS Solutions | Community driven incubator for crypto startups | Live on: #ETH #BSC #AVAX #Polygon #DOT #SOL #APT.",
 			"pool_list": [
-			        "0x7b7A110EF4196FD321f23Ab19BEE1ceE670dfa22",
+			        "0x7b7A110EF4196FD321f23Ab19BEE1ceE670dfa22"
 			]
 			}
 	         ],
@@ -51,9 +49,7 @@
 			"telegram": "",
 			"discord": "https://discord.com/invite/thebeacon",
 			"introduce": "F2P action roguelite RPG, in development. Venture into dungeons, defeat evils & expand the Beacon's light!",
-			"pool_list": [
-			        "",
-			]
+			"pool_list": []
 			}
 		],
 		"ETH": []
