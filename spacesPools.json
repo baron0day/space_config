@@ -44,14 +44,16 @@
 		"ARB": [
                         {
 			"spaces_name": "The beacon",
-			"spaces_address": "0x017Fb60125d52adb0969d8FC04C2f14Be10651D3",
+			"spaces_address": "0xd73d348055E41bb405054720c4a06133bd004CD5",
 			"spaces_logo": "https://i.seadn.io/gae/DP5IVh0Rp45Mvf5z9lMgKozeARbSUe6GrvR2moXHScbxDUlr-elrn4yDIP7NPyOf9B6F9SyJsJLkpTEN1neNrByaC02LxI_o2ZBc7jM?auto=format&w=1920",
 		        "website": "https://www.thebeacon.gg/",
 		        "twitter": "https://twitter.com/The_Beacon_GG",
 			"telegram": "",
 			"discord": "https://discord.com/invite/thebeacon",
 			"introduce": "F2P action roguelite RPG, in development. Venture into dungeons, defeat evils & expand the Beacon's light!",
-			"pool_list": []
+			"pool_list": [
+			        "0x299c5b84ab977c9720312506C944a14F5674839E"
+			]
 			}
 		],
 		"ETH": []
