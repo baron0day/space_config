@@ -1,61 +1,51 @@
 {
-	"spaces_list": {
-		"BSC": [
-			{
-			"spaces_name": "Polychain Monsters",
-			"spaces_address": "0x017Fb60125d52adb0969d8FC04C2f14Be10651D3",
-			"spaces_logo": "https://i.seadn.io/gcs/files/c4467dd3e1f81e69babedf57b28a3025.webp?auto=format&w=1920",
-		        "website": "https://polychainmonsters.com/",
-		        "twitter": "https://twitter.com/polychainmon",
-			"telegram": "",
-			"discord": "https://discord.com/invite/polychainmonsters",
-			"introduce": "Polychain Monsters are beautifully animated digital collectibles with varying scarcities. Each Polychain Monster is backed by a truly unique NFT and can be unpacked with $PMON tokens.",
-			"pool_list": [
-			        "0xa60E2981452eAa80688bf1c91bbe3E165F37EB89"
-			]
-			},
-			{
-			"spaces_name": "WonderfulDay Tiger",
-			"spaces_address": "0x017Fb60125d52adb0969d8FC04C2f14Be10651D3",
-			"spaces_logo": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1671133663905_m42eq6m2pfqa9wqwhqrpb0dns6futori.png",
-		        "website": "https://nftwon.net/",
-		        "twitter": "https://twitter.com/WonderfulDay_io",
-			"telegram": "",
-			"discord": "https://discord.com/invite/YCDtCBwshM",
-			"introduce": "WonderfulDay is a decentralized NFT mint, trading and data display platform. Wonderful Tiger is the symbol of the WonderfulDay brand. Collect five different tigers to share 20M WON reward. Stake or trade any tiger NFT to get WON rewards.",
-			"pool_list": [
-			        "0x02720e058bEbB918AEf5227A304e017d91e975fC"
-			]
-			},
-			{
-			"spaces_name": "TrustFi",
-			"spaces_address": "0x017Fb60125d52adb0969d8FC04C2f14Be10651D3",
-			"spaces_logo": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
-		        "website": "https://trustfi.org",
-		        "twitter": "https://twitter.com/trustfiorg",
-			"telegram": "https://t.me/trustfi_org",
-			"discord": "",
-			"introduce": "#DeFi Market BaaS Solutions | Community driven incubator for crypto startups | Live on: #ETH #BSC #AVAX #Polygon #DOT #SOL #APT.",
-			"pool_list": [
-			        "0x7b7A110EF4196FD321f23Ab19BEE1ceE670dfa22"
-			]
-			}
-	         ],
-		"ARB": [
-                        {
-			"spaces_name": "The beacon",
-			"spaces_address": "0x017Fb60125d52adb0969d8FC04C2f14Be10651D3",
-			"spaces_logo": "https://i.seadn.io/gae/DP5IVh0Rp45Mvf5z9lMgKozeARbSUe6GrvR2moXHScbxDUlr-elrn4yDIP7NPyOf9B6F9SyJsJLkpTEN1neNrByaC02LxI_o2ZBc7jM?auto=format&w=1920",
-		        "website": "https://www.thebeacon.gg/",
-		        "twitter": "https://twitter.com/The_Beacon_GG",
-			"telegram": "",
-			"discord": "https://discord.com/invite/thebeacon",
-			"introduce": "F2P action roguelite RPG, in development. Venture into dungeons, defeat evils & expand the Beacon's light!",
-			"pool_list": [
-			        "0x7160e293D81c63437adEbA637E03667474c97E71"
-			]
-			}
-		],
-		"ETH": []
-         }
+    "spaces_list":{
+        "BSC":[
+            {
+                "spaces_name":"Polychain Monsters",
+                "spaces_address":"0x017Fb60125d52adb0969d8FC04C2f14Be10651D3",
+                "spaces_logo":"https://i.seadn.io/gcs/files/c4467dd3e1f81e69babedf57b28a3025.webp?auto=format&w=1920",
+                "website":"https://polychainmonsters.com/",
+                "twitter":"https://twitter.com/polychainmon",
+                "telegram":"",
+                "discord":"https://discord.com/invite/polychainmonsters",
+                "introduce":"Polychain Monsters are beautifully animated digital collectibles with varying scarcities. Each Polychain Monster is backed by a truly unique NFT and can be unpacked with $PMON tokens.",
+                "pool_list":[
+                    "0xa60E2981452eAa80688bf1c91bbe3E165F37EB89"
+                ]
+            },
+    
+            {
+                "spaces_name":"TrustFi",
+                "spaces_address":"0x017Fb60125d52adb0969d8FC04C2f14Be10651D3",
+                "spaces_logo":"https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+                "website":"https://trustfi.org",
+                "twitter":"https://twitter.com/trustfiorg",
+                "telegram":"https://t.me/trustfi_org",
+                "discord":"",
+                "introduce":"#DeFi Market BaaS Solutions | Community driven incubator for crypto startups | Live on: #ETH #BSC #AVAX #Polygon #DOT #SOL #APT.",
+                "pool_list":[
+                    "0x7b7A110EF4196FD321f23Ab19BEE1ceE670dfa22"
+                ]
+            }
+        ],
+        "ARB":[
+            {
+                "spaces_name":"The beacon",
+                "spaces_address":"0x017Fb60125d52adb0969d8FC04C2f14Be10651D3",
+                "spaces_logo":"https://i.seadn.io/gae/DP5IVh0Rp45Mvf5z9lMgKozeARbSUe6GrvR2moXHScbxDUlr-elrn4yDIP7NPyOf9B6F9SyJsJLkpTEN1neNrByaC02LxI_o2ZBc7jM?auto=format&w=1920",
+                "website":"https://www.thebeacon.gg/",
+                "twitter":"https://twitter.com/The_Beacon_GG",
+                "telegram":"",
+                "discord":"https://discord.com/invite/thebeacon",
+                "introduce":"F2P action roguelite RPG, in development. Venture into dungeons, defeat evils & expand the Beacon's light!",
+                "pool_list":[
+                    "0x7160e293D81c63437adEbA637E03667474c97E71"
+                ]
+            }
+        ],
+        "ETH":[
+
+        ]
+    }
 }
